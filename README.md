@@ -75,7 +75,7 @@ For further customization and setup guidance, click the button below:
 ### Join Us
 
 <div align="center">
-  <a href="https://t.me/+3QhFUZHxhf-nhhZmY1">
+  <a href="https://t.me/+3QhFUZHJjxhf-nhhZmY1">
     <img src="https://img.shields.io/badge/Join%20Telegram-0078E7?style=for-the-badge&logo=telegram&logoColor=white" alt="Join Telegram"/>
   </a>
   <a href="https://whatsapp.com/channel/0029Va90zAnIHphOuO8Msp3A">
@@ -118,7 +118,7 @@ It is lightweight and can be easily customized to add more commands as per your 
 
     ```bash
     git clone https://github.com/TECHKEED/TECHKEED-MD.git
-    cd Knightbot-MD
+    cd TECHKEED-MD
     ```
 
 2. **Install the dependencies:**
