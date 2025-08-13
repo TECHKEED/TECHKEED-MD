@@ -10,7 +10,7 @@ This is a WhatsApp bot built using the Baileys library for group management,g fe
 
 <div align="center"> 
   <a href="https://youtube.com/@SHADOW_TEE_OFC"> 
-    <img src="https://files.catbox.moe/bgfmo1.jpg" alt="Knight Bot" height="300"> 
+    <img src="https://files.catbox.moe/a165kw.jpg" alt="Knight Bot" height="300"> 
   </a> 
 </div>
 
